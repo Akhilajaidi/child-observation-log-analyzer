@@ -31,7 +31,7 @@ child-observation-log-analyzer/
 ## Quick start
 
 ```bash
-git clone https://github.com/<your-username>/child-observation-log-analyzer.git
+git clone https://github.com/<Akhilajaidi>/child-observation-log-analyzer.git
 cd child-observation-log-analyzer
 python generate_sample_data.py     # optional: regenerate sample data
 python analyzer.py                 # uses data/sample_observations.csv
