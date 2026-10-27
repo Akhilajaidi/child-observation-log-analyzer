@@ -1,0 +1,16 @@
+OBSERVATION REPORT - Diya
+As of: 2026-10-09
+============================================
+
+Area             Count   Last observed
+--------------------------------------------
+Practical Life       5   2026-10-07
+Sensorial            7   2026-10-08
+Language             5   2026-09-21
+Math                 0   never
+
+Total observations: 17
+
+NEEDS ATTENTION (no observation for 14+ days):
+  * Language: 18 days ago
+  * Math: never observed

@@ -1,0 +1,15 @@
+OBSERVATION REPORT - Rohan
+As of: 2026-10-09
+============================================
+
+Area             Count   Last observed
+--------------------------------------------
+Practical Life      10   2026-10-07
+Sensorial            0   never
+Language             5   2026-10-08
+Math                 7   2026-10-09
+
+Total observations: 22
+
+NEEDS ATTENTION (no observation for 14+ days):
+  * Sensorial: never observed
